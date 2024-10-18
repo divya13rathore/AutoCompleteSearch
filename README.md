@@ -20,8 +20,7 @@ This project implements an autocomplete search feature using React, allowing use
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-
+   git clone https://github.com/divya13rathore/AutoCompleteSearch
 2.Install dependencies:
 npm install
 
